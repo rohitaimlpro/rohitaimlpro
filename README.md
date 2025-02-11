@@ -1,7 +1,7 @@
 # Data Science Project Setup with CookieCutter and DVC
 
-## 📌 Objective
-The objective of this assignment is to understand the setup and usage of CookieCutter for structuring a data science project and DVC (Data Version Control) for managing data and model versioning efficiently.
+## 📌 AIM
+The AIM of this assignment is to understand the setup and usage of CookieCutter for structuring a data science project and DVC (Data Version Control) for managing data and model versioning efficiently.
 
 ---
 
@@ -59,5 +59,3 @@ The objective of this assignment is to understand the setup and usage of CookieC
 - **CookieCutter**
 - **DVC (Data Version Control)**
 - **Git & GitHub**
-
-🚀 Happy Coding! 🎯
