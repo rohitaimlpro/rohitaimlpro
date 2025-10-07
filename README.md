@@ -9,6 +9,10 @@
 <!-- Animated Typing Effect -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1500&pause=500&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1200&height=180&lines=%F0%9F%9A%80+WELCOME+TO+THE+AI+DIMENSION+%F0%9F%9A%80;.;%E2%9A%A1+Building+Intelligent+Systems+%E2%9A%A1;.;%F0%9F%A4%96+LLM+%7C+RAG+%7C+Computer+Vision+%7C+GenAI+%F0%9F%A4%96;.;%F0%9F%94%A5+Transforming+Ideas+Into+Reality+%F0%9F%94%A5" alt="Typing SVG" />
 
+
+
+
+
 <!-- Neon Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/🌐_STATUS-ONLINE-00ff00?style=for-the-badge&labelColor=000000&color=00ff00"/>&nbsp;
